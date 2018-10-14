@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 36c52775c7f5f2945845246e9f041a3e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - QuantidadeZumbisText: {instanceID: 0}
+  - PontuacaoText: {instanceID: 0}
+  - IngredienteAcucar: {instanceID: 0}
+  - IngredienteFarinha: {instanceID: 0}
+  - IngredienteLeite: {instanceID: 0}
+  - IngredienteOvo: {instanceID: 0}
+  - AtaqueBolinhoPrefab: {instanceID: 0}
+  - AtaqueBolinhoSujoPrefab: {instanceID: 0}
+  - PontoLancamentoBolinho: {instanceID: 0}
+  - AtaqueBom: {instanceID: 0}
+  - AtaqueRuim: {instanceID: 0}
+  - receiver: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
